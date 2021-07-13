@@ -2,6 +2,7 @@
   "deno.enable": true,
   "deno.suggest.imports.hosts": {
     "https://jspm.dev": false,
-    "https://deno.land": false
+    "https://deno.land": false,
+    "https://deno": false
   }
 }

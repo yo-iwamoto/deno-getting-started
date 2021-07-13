@@ -1,0 +1,14 @@
+GET http://localhost:3000/
+
+###
+
+POST http://localhost:3000/verify/
+Content-Type: application/json
+
+{
+  "uid": "e1e4f204-f78e-41c4-9d32-599bd006ea4e"
+}
+
+###
+
+PATCH http://localhost:3000/about/company/
